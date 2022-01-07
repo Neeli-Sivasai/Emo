@@ -2,4 +2,8 @@ Sheldon cooper
 Missy cooper
 Mary cooper
 George cooper
+<<<<<<< HEAD
 Paster Jeff
+=======
+Connie tucker
+>>>>>>> master3
